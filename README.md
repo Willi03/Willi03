@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Willi03
+- 👀 I’m interested in Computer Science, Networks and Cybersecurity
+- 🌱 I’m currently learning Networks and Telecommunications
